@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.tabrisjs.getting.started" version="1.0.0">
+  <name>HelloWorld</name>
+  <description>
+   A sample Tabris.js application.
+  </description>
+  <author email="838730592@qq.com" href="https://www.zgenk.com">
+   daben1990
+  </author>
+</widget>
